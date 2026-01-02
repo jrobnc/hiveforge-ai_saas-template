@@ -1,0 +1,38 @@
+{
+  "id": "ai_saas",
+  "name": "AI SaaS Platform",
+  "description": "AI-powered SaaS with OpenAI integration, conversation history, and usage tracking.",
+  "version": "1.0.0",
+  "category": "ai",
+  "features": [
+    "OpenAI GPT integration",
+    "Conversation history",
+    "Token usage tracking",
+    "API rate limiting",
+    "Prompt templates",
+    "Response streaming",
+    "Usage analytics",
+    "Multi-model support"
+  ],
+  "tech_stack": {
+    "frontend": [
+      "Next.js 14",
+      "React",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "backend": [
+      "FastAPI",
+      "Python",
+      "OpenAI SDK"
+    ],
+    "infrastructure": [
+      "Supabase",
+      "Railway",
+      "OpenAI"
+    ]
+  },
+  "difficulty": "advanced",
+  "estimated_setup_time": 30,
+  "created_at": "2026-01-02T20:50:52.062219"
+}
